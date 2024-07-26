@@ -1,0 +1,2 @@
+# SCMA-632-A6b
+ARCH/GARCH models, VAR,VECM model
